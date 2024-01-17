@@ -18,7 +18,7 @@ public class EnhancedForLoops {
       System.out.println(weekDay);
     }
 
-    int[] randomNumbers = { 23, 51, 72, 84, 1, 60, 34, 102 };
+    int[] randomNumbers = { 23, 51, 72, 84, 1, 60, 34, 102, 100 };
     // Write an enhanced for loop to print out the numbers in the array that are
     // greater than 50.
     for (int randomNumber : randomNumbers) {
